@@ -1,1 +1,1 @@
-Github is a online platform where you can store Git repositories.
+Github is a online platform where you can store Git repositories.GitHub is owned by Microsoft 
